@@ -85,4 +85,4 @@ The main objective of this project is to understand and implement Object-Oriente
 
 ---
 
-**Note:** This project is developed for educational purposes as part of an OOP lab project.
+**Note:** This project is developed for educational purposes as part of an OOPs project.
